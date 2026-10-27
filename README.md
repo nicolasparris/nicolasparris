@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Nícolas Parris! 👋</h1>
+<h1 align="center">Olá, eu sou Nicolas Parris! 👋</h1>
 
 <h3 align="center">🎓 Estudante de Engenharia de Software | Desenvolvedor em formação</h3>
 
