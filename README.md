@@ -64,19 +64,10 @@ Acredito que a evolução vem da prática, da curiosidade e da disposição para
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Minha jornada no GitHub
+
+Estou começando a construir meu portfólio e utilizar o GitHub para organizar meus projetos, registrar meu aprendizado e acompanhar minha evolução na programação.
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nicolasparris&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasparris&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas"/>
-</p>
-
----
-
-<p align="center">
-  <b>Aprendendo na prática, evoluindo a cada projeto. 🚀</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/nicolasparris">Confira meus projetos no GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nicolasparris&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs&include_all_commits=false" alt="Estatísticas do GitHub"/>
 </p>
